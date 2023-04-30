@@ -1,4 +1,4 @@
-module git.mytaxi.lk/pickme/go/traceable-context
+module github.com/go/traceable-context
 
 go 1.15
 
